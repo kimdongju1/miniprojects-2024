@@ -5,7 +5,7 @@ IoT 개발자 미니프로젝트 리포지토리
 - 조별 자리배치
 - IoT 프로젝트 개요 
 
-    ![IoT프로젝트](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/main/mp001.png)
+    ![IoT프로젝트](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/5b9836b62a27e26864db5235beb7b2453d02885f/images/mp001.png)
 
     1. IoT기기 구성 - 아두이노, 라즈베리파이 등 IoT장비들과 연결 
     2. 서버 구성 - IoT기기와 통신, DB구성, 데이터 수집 앱 개발 
@@ -132,11 +132,11 @@ IoT 개발자 미니프로젝트 리포지토리
         - LiveChart2는 차후에 다시, 현재는 OxyPlot 차트 대체
     - 실행결과
 
-        ![스마트홈](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/main/mp002.png)
+        ![스마트홈](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/5b9836b62a27e26864db5235beb7b2453d02885f/images/mp002.png)
 
-        ![스마트홈2](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/main/mp003.png)
+        ![스마트홈2](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/5b9836b62a27e26864db5235beb7b2453d02885f/images/mp003.png)
 
-        ![스마트홈3](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/main/mp004.png)
+        ![스마트홈3](https://raw.githubusercontent.com/kimdongju1/miniprojects-2024/5b9836b62a27e26864db5235beb7b2453d02885f/images/mp004.png)
 
 
 - 조별 미니프로젝트 발표
