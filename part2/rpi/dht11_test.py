@@ -5,7 +5,7 @@ import RPi.GPIO as GPIO
 import board
 
 log_num = 0
-sensor_pin = 18
+sensor_pin = 4
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(sensor_pin, GPIO.IN)
 dhtDevice = adafruit_dht.DHT11(board.D18) 
